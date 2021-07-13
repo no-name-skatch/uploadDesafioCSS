@@ -1,0 +1,62 @@
+BODY {
+    background-color:#000;
+    background-repeat: no-repeat;
+	font-family: Verdana;
+}
+
+.p2{
+	background-color: #1c1c1c;
+	color: white;
+	border: 1px solid lightgrey ;
+}
+
+P{
+	font-family: Arial; 
+	font-size:  100%; 
+	text-align: justify
+}
+
+pre{
+	font-family: Arial; 
+	font-size:  100%; 
+}
+
+h2{
+	color: #f00;
+	font-family: Arial;
+}
+
+A:HOVER{
+	background-color: grey;
+	color: black;
+}
+A {
+	background-color: white;
+	color: black;
+	font-weight: bold; 
+}
+.jj {
+	background-color: grey;
+	width: 20%;
+	justify-content: center;
+}
+   
+  .p1 {
+ height: 178.5px;
+ width:  100%;
+ border: solid;
+ border-width: 2px	 
+  }
+  
+  .logo{
+	height: 178.5px;
+	width:  100%;
+	border: solid;
+	border-width: 2px	 
+  }
+  
+  .dif{
+	background-color: #1c1c1c ;
+	color: #00BFFF ;
+	font-family: Arial ;
+  }
